@@ -1,2 +1,2 @@
 # pld-smart
-Smart Online Collaborative Livrary
+Smart Online Collaborative Library
